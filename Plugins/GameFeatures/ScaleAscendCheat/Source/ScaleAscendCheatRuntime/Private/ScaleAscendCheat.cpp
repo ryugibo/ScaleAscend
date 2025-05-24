@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright ryugibo. All Rights Reserved.
 
 
 #include "ScaleAscendCheat.h"
