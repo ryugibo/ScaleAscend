@@ -1,5 +1,6 @@
 Intermediate/
 Saved/
+DerivedDataCache/
 
 .vs/
 *.sln
@@ -13,3 +14,7 @@ Binaries/Win64/*
 Plugins/GameFeatures/*/Binaries/Win64/*
 !Plugins/GameFeatures/*/Binaries/Win64/UnrealEditor-ScaleAscendCheatRuntime.dll
 !Plugins/GameFeatures/*/Binaries/Win64/UnrealEditor.modules
+
+Content/*
+!Content/ScaleAscend/
+
