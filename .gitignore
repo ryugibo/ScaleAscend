@@ -1,0 +1,12 @@
+Intermediate/
+Saved/
+
+.vs/
+*.sln
+.vsconfig
+
+Binaries/Win64/*
+!Binaries/Win64/UnrealEditor-ScaleAscend.dll
+!Binaries/Win64/UnrealEditor.modules
+!Binaries/Win64/ScaleAscendEditor.target
+
